@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jormungandrx
-- 👀 I’m interested in coding, running, bouldering, music (just starting out), snowboarding (just starting out) and possibly judo.
-- 🌱 I’m currently learning github and C#
+- 👀 I’m interested in coding, running, bouldering
+- 🌱 I’m currently learning a little bit of everything.
 
 - 📫 How to reach me ...
 
